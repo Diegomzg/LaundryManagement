@@ -1,0 +1,17 @@
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\obj\Debug\net8.0-windows\LaundryManagement.Form1.resources
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\obj\Debug\net8.0-windows\LaundryManagement.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\obj\Debug\net8.0-windows\LaundryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\obj\Debug\net8.0-windows\LaundryManagement.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\obj\Debug\net8.0-windows\LaundryManagement.AssemblyInfo.cs
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\obj\Debug\net8.0-windows\LaundryManagement.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\bin\Debug\net8.0-windows\LaundryManagement.exe
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\bin\Debug\net8.0-windows\LaundryManagement.deps.json
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\bin\Debug\net8.0-windows\LaundryManagement.runtimeconfig.json
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\bin\Debug\net8.0-windows\LaundryManagement.dll
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\bin\Debug\net8.0-windows\LaundryManagement.pdb
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\obj\Debug\net8.0-windows\LaundryManagement.dll
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\obj\Debug\net8.0-windows\refint\LaundryManagement.dll
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\obj\Debug\net8.0-windows\LaundryManagement.pdb
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\obj\Debug\net8.0-windows\LaundryManagement.genruntimeconfig.cache
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\obj\Debug\net8.0-windows\ref\LaundryManagement.dll
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\obj\Debug\net8.0-windows\LaundryManagement.Properties.Resources.resources

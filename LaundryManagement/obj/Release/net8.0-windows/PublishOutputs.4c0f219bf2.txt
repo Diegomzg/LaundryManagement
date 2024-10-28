@@ -1,0 +1,5 @@
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\bin\Release\net8.0-windows\publish\LaundryManagement.exe
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\bin\Release\net8.0-windows\publish\LaundryManagement.dll
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\bin\Release\net8.0-windows\publish\LaundryManagement.deps.json
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\bin\Release\net8.0-windows\publish\LaundryManagement.runtimeconfig.json
+C:\Users\diego\source\repos\LaundryManagement\LaundryManagement\bin\Release\net8.0-windows\publish\LaundryManagement.pdb
