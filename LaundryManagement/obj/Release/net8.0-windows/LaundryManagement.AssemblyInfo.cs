@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LaundryManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89162077619c916bb2bccf0c345f2cfb84791745")]
 [assembly: System.Reflection.AssemblyProductAttribute("LaundryManagement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LaundryManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
